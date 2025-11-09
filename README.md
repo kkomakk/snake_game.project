@@ -98,7 +98,7 @@ g++ main.cpp map.cpp snake.cpp -lncurses -o snake_game
 ───────────────────────────────
 
 👨‍💻 개발자 정보
-이름 : 신지섭
+이름 : 이지수
 역할 : Snake 이동 로직, 충돌 판정, 게임 루프 구조 설계
 GitHub : github.com/kkomakk
 
